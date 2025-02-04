@@ -6,7 +6,7 @@
 > O projeto está organizado em duas atividades distintas: a primeira visa a conteneirização de uma aplicação **frontend simples** utilizando o servidor **web Nginx**, e a segunda envolve a implantação da plataforma **Wiki.js**, com persistência de dados em um banco de dados PostgreSQL.
 
 
-  <img src="./calc1.gif" align="center" height="500em" width="100%"> 
+  <img src="./gravando.gif" align="center" height="500em" width="90%"> 
 
 
 ---
