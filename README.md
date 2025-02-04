@@ -6,7 +6,7 @@
 > O projeto está organizado em duas atividades distintas: a primeira visa a conteneirização de uma aplicação **frontend simples** utilizando o servidor **web Nginx**, e a segunda envolve a implantação da plataforma **Wiki.js**, com persistência de dados em um banco de dados PostgreSQL.
 
 
-
+ ### <div align="center"> [Clique aqui para acessar o Projeto](https://calculadoramain.netlify.app/)
 
 
 ---
