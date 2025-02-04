@@ -255,7 +255,6 @@ Este desafio permitiu a prática da containerização de aplicações web e o us
 # 📜 Licença
 Este projeto foi desenvolvido para fins educacionais como parte do curso StackX. Sinta-se à vontade para contribuir e expandir as funcionalidades!
 
-
 ---
 
 ### 🔹 Como este README foi estilizado?
