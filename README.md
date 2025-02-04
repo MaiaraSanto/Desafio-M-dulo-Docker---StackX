@@ -5,7 +5,9 @@
 > **Este repositório contém a solução para o desafio do módulo Docker da StackX.**  
 > O projeto está organizado em duas atividades distintas: a primeira visa a conteneirização de uma aplicação **frontend simples** utilizando o servidor **web Nginx**, e a segunda envolve a implantação da plataforma **Wiki.js**, com persistência de dados em um banco de dados PostgreSQL.
 
-
+# 
+**Exemplo de como foi executado**
+#
   <img src="./gravando.gif" align="center" height="500em" width="100%"> 
 
 
