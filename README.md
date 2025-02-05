@@ -26,6 +26,7 @@
 ## 📂 Estrutura do Projeto
 
 desafio-modulo-docker-stackx/
+
 │──  /atv1 # Aplicação frontend empacotada com Docker 
 
 │    ├── index.html 
